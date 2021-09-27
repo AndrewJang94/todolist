@@ -1,0 +1,8 @@
+#node modules
+/node_modules
+#visual studip
+/.vscode
+#parcel
+/.parcel-cache
+#dist
+/dist
